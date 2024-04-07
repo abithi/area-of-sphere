@@ -1,0 +1,5 @@
+#calculation of sphere
+pi=3.14
+r=int(input("enter the values of radius:"))
+area=4*pi*r*r
+print("area of the sphere:",area)
